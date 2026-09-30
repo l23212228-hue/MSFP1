@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 1: Diseño de controladores de segundo orden'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mariant
+    family-names: Reyes Zamudio
+    email: l23212228@tijuana.tecnm.mx
+    affiliation: TecNM / IT tijuana
+repository-code: 'https://github.com/l23212228-hue/MSFP1'
+keywords:
+  - Circuito RLC
+  - Controlador I
+  - Diseño de controlador
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-09-29'
