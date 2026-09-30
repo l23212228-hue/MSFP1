@@ -1,10 +1,10 @@
-\[!\[Open in MATLAB Online]
+(https://matlab.mathworks.com/open/github/v1?repo=l23212228-hue/MSFP1) 
 
 # Práctica 1: Diseño de controladores
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Mariant Reyes Zamudio \[23212228]; l23212228@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -37,13 +37,13 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 
 En esta práctica se presenta un circuito RLC de segundo orden, el sistema es estable con una respuesta sobreamortiguada, un error en estado estacionario de 0.5 V y un transitorio que depende directamente de los valores elegidos para el conjunto de resistencias R y la capacitancia del capacitor C de la segunda malla.
 
-Palabras clave: Circuito RLC; Controlador PID; Sistema respiratorio; Modelo matemático; Simulaciones numéricas.
+Palabras clave: Circuito RLC; Controlador I; Diseño de controladores; Modelo matemático; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
 
 1. Cuaderno computacional de MATLAB \[.mlx].
 2. Modelo de Simulink \[.slx].
-3. Archivos de Spyder \[.py].
+3. Archivos de Visual studio code \[.py].
 4. Imagen con los parámetros del controlador.
 5. Imágenes de las simulaciones \[.pdf y .png].
 6. Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
